@@ -3255,6 +3255,9 @@
 0.0.0.0 sign.pinjamduit.co.id
 0.0.0.0 api.pendanaan.com
 0.0.0.0 popcorn-pos.com
+0.0.0.0 configs-p15.ingageapp.com
 0.0.0.0 www.popcorn-pos.com
 0.0.0.0 devapiuser.investoval.com
 0.0.0.0 lexdigi.id
+0.0.0.0 www.lexdigi.com
+0.0.0.0 git.pinjamduit.co.id
