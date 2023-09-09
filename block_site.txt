@@ -3263,3 +3263,4 @@
 0.0.0.0 www.lexdigi.com
 0.0.0.0 git.pinjamduit.co.id
 0.0.0.0 pinjamduit.co.id
+0.0.0.0 www.pinjamduit.co.id
