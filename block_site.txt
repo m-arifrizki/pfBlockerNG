@@ -2776,6 +2776,7 @@
 0.0.0.0 www.plarium.com
 0.0.0.0 www.playerassist.com
 0.0.0.0 www.homecredit.co.id
+0.0.0.0 homecredit.co.id
 0.0.0.0 idm.homecredit.co.id
 0.0.0.0 myhub.homecredit.co.id
 0.0.0.0 dev-cz.homecredit.co.id
@@ -3261,3 +3262,4 @@
 0.0.0.0 lexdigi.id
 0.0.0.0 www.lexdigi.com
 0.0.0.0 git.pinjamduit.co.id
+0.0.0.0 pinjamduit.co.id
